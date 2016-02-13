@@ -16,8 +16,22 @@ Cursos sobre pre/post processors de CSS
 
 ### Less
 
+- Prof.: 
+- Repositório: []()
+
+
 ### Sass
+
+- Prof.: 
+- Repositório: [https://github.com/Webschool-io/Curso-CSS-SASS](https://github.com/Webschool-io/Curso-CSS-SASS)
 
 ### Stylus
 
+- Prof.: 
+- Repositório: []()
+
+
 ### PostCSS
+
+- Prof.: 
+- Repositório: []()
