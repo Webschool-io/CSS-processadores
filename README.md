@@ -28,10 +28,10 @@ Cursos sobre pre/post processors de CSS
 ### Stylus
 
 - Prof.: 
-- Repositório: []()
+- Repositório: [https://github.com/Webschool-io/Curso-CSS-Stylus](https://github.com/Webschool-io/Curso-CSS-Stylus)
 
 
 ### PostCSS
 
 - Prof.: 
-- Repositório: []()
+- Repositório: [https://github.com/Webschool-io/Curso-PostCSS](https://github.com/Webschool-io/Curso-PostCSS)
