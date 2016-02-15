@@ -8,6 +8,7 @@ Cursos sobre pre/post processors de CSS
 - variables
 - interpolation
 - operators
+- extend
 - mixins
 - functions
 - placeholders
