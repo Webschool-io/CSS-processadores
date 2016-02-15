@@ -4,6 +4,7 @@ Cursos sobre pre/post processors de CSS
 ## Ementa básica
 
 - selectors
+- pseudo-elementos
 - variables
 - interpolation
 - operators
