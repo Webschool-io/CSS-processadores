@@ -33,5 +33,5 @@ Cursos sobre pre/post processors de CSS
 
 ### PostCSS
 
-- Prof.: 
+- Prof.: [Fernando Fleury](https://github.com/fernandofleury)
 - Repositório: [https://github.com/Webschool-io/Curso-PostCSS](https://github.com/Webschool-io/Curso-PostCSS)
