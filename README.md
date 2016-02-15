@@ -18,18 +18,18 @@ Cursos sobre pre/post processors de CSS
 
 ### Less
 
-- Prof.: 
-- Repositório: []()
+- Prof.: [Caio Norder](https://github.com/caionorder)
+- Repositório: [https://github.com/Webschool-io/Curso-CSS-Less](https://github.com/Webschool-io/Curso-CSS-Less)
 
 
 ### Sass
 
-- Prof.: 
+- Prof.: [Amanda Vilela](https://github.com/amandavilela)
 - Repositório: [https://github.com/Webschool-io/Curso-CSS-SASS](https://github.com/Webschool-io/Curso-CSS-SASS)
 
 ### Stylus
 
-- Prof.: 
+- Prof.: [Marcos Felipe](https://github.com/omarkdev/)
 - Repositório: [https://github.com/Webschool-io/Curso-CSS-Stylus](https://github.com/Webschool-io/Curso-CSS-Stylus)
 
 
